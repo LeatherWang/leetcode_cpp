@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/lxdata/leather_repertory/leecode/12_bailian/2755_pocket/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+time.h
+/home/leather/lxdata/leather_repertory/leecode/12_bailian/2755_pocket/time.h
+memory.h
+/home/leather/lxdata/leather_repertory/leecode/12_bailian/2755_pocket/memory.h
+

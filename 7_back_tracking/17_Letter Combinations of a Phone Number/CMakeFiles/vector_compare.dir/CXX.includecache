@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/lxdata/leather_repertory/leecode/7_back_tracking/17_Letter Combinations of a Phone Number/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+list
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+memory.h
+-
+climits
+-
+

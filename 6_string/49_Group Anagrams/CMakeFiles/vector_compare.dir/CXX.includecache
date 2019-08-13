@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/leecode/6_string/49_Group Anagrams/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+list
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+memory.h
+-
+climits
+-
+

@@ -1,0 +1,3 @@
+/home/leather/leecode/9_tree/572_Subtree of Another Tree/CMakeFiles/rebuild_cache.dir
+/home/leather/leecode/9_tree/572_Subtree of Another Tree/CMakeFiles/edit_cache.dir
+/home/leather/leecode/9_tree/572_Subtree of Another Tree/CMakeFiles/vector_compare.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/leecode/6_string/609_Find Duplicate File in System/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+list
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+memory.h
+-
+climits
+-
+set
+-
+

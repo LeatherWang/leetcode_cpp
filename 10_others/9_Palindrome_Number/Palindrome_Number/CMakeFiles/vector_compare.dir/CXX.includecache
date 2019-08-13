@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/lxdata/leather_repertory/leecode/9_Palindrome_Number/Palindrome_Number/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+list
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+memory.h
+-
+climits
+-
+sstream
+-
+

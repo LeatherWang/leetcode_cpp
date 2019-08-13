@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -O3 -DNDEBUG  -rdynamic CMakeFiles/vector_compare.dir/main.cpp.o  -o vector_compare 

@@ -1,0 +1,3 @@
+/home/leather/leecode/9_tree/671_Second Minimum Node In a Binary Tree/CMakeFiles/rebuild_cache.dir
+/home/leather/leecode/9_tree/671_Second Minimum Node In a Binary Tree/CMakeFiles/edit_cache.dir
+/home/leather/leecode/9_tree/671_Second Minimum Node In a Binary Tree/CMakeFiles/vector_compare.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/leecode/2_dfs/688_Knight Probability in Chessboard/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+list
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+memory.h
+-
+climits
+-
+sstream
+-
+set
+-
+

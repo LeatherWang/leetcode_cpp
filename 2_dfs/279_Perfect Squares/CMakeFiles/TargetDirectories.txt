@@ -1,0 +1,3 @@
+/home/leather/leecode/2_dfs/279_Perfect Squares/CMakeFiles/rebuild_cache.dir
+/home/leather/leecode/2_dfs/279_Perfect Squares/CMakeFiles/edit_cache.dir
+/home/leather/leecode/2_dfs/279_Perfect Squares/CMakeFiles/vector_compare.dir

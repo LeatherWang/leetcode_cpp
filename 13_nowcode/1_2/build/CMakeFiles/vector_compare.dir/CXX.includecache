@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/leecode/13_nowcode/1_2/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+time.h
+/home/leather/leecode/13_nowcode/1_2/time.h
+stack
+-
+queue
+-
+deque
+-
+map
+-
+iomanip
+-
+sstream
+-
+

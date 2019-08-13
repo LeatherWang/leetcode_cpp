@@ -1,0 +1,3 @@
+/home/leather/leecode/6_string/609_Find Duplicate File in System/CMakeFiles/rebuild_cache.dir
+/home/leather/leecode/6_string/609_Find Duplicate File in System/CMakeFiles/edit_cache.dir
+/home/leather/leecode/6_string/609_Find Duplicate File in System/CMakeFiles/vector_compare.dir

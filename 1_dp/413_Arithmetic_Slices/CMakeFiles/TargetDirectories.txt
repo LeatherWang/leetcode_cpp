@@ -1,0 +1,3 @@
+/home/leather/lxdata/leather_repertory/leecode/413_Arithmetic_Slices/CMakeFiles/rebuild_cache.dir
+/home/leather/lxdata/leather_repertory/leecode/413_Arithmetic_Slices/CMakeFiles/edit_cache.dir
+/home/leather/lxdata/leather_repertory/leecode/413_Arithmetic_Slices/CMakeFiles/vector_compare.dir

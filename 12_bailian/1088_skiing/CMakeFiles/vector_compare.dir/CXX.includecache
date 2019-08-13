@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/lxdata/leather_repertory/leecode/12_bailian/1088_skiing/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+time.h
+/home/leather/lxdata/leather_repertory/leecode/12_bailian/1088_skiing/time.h
+

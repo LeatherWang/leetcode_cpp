@@ -1,0 +1,3 @@
+/home/leather/leecode/11_sort/524_Longest Word in Dictionary through Deleting/CMakeFiles/rebuild_cache.dir
+/home/leather/leecode/11_sort/524_Longest Word in Dictionary through Deleting/CMakeFiles/edit_cache.dir
+/home/leather/leecode/11_sort/524_Longest Word in Dictionary through Deleting/CMakeFiles/vector_compare.dir
