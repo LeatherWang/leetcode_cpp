@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leather/lxdata/leather_repertory/leather_tests/datastructure_code/hash/main.cpp
+myhash.h
+/home/leather/lxdata/leather_repertory/leather_tests/datastructure_code/hash/myhash.h
+
+/home/leather/lxdata/leather_repertory/leather_tests/datastructure_code/hash/myhash.h
+iostream
+-
+
